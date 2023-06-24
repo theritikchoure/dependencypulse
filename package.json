@@ -1,0 +1,31 @@
+{
+  "name": "dependencypulse",
+  "version": "1.0.0",
+  "description": "Gain full visibility and control over your project's dependencies with DependencyPulse, the innovative Dependency Tracker tool. Track, analyze, and optimize your package ecosystem effortlessly, empowering developers to make informed decisions and streamline their development process.",
+  "main": "index.js",
+  "bin": {
+    "dp": "./bin/bash"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theritikchoure/zen.git"
+  },
+  "keywords": [
+    "zen",
+    "create-files",
+    "theritikchoure",
+    "ritikchoure",
+    "file-system",
+    "file system"
+  ],
+  "author": "theritikchoure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theritikchoure/zen/issues"
+  },
+  "homepage": "https://github.com/theritikchoure/zen#readme",
+  "dependencies": {}
+}
